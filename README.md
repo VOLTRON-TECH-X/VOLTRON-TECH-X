@@ -100,7 +100,7 @@ Installation Steps
    ```
 2. Run the installer
    ```bash
-   bash <(curl -sL https://raw.githubusercontent.com/VOLTRON-TECH-X/VOLTRON-TECH-X/refs/heads/main/main.sh)
+   bash <(curl -s https://raw.githubusercontent.com/VOLTRON-TECH-X/VOLTRON-TECH-X/refs/heads/main/install.sh)
    ```
 3. Script starts automatically - No additional steps required
 4. During DNSTT installation - You will choose:
