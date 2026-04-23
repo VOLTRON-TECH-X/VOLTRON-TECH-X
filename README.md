@@ -2,7 +2,7 @@
 
 **Version:** 10.8 (Falcon Style Edition)  
 **Author:** Voltron Tech  
-**Platform:** Linux (Ubuntu/Debian)
+**Platform:**All Linux Os (Ubuntu,Debian,CentOs,etc.)
 
 > A modern, powerful script for managing SSH, VPN, and remote access systems. Built for network professionals and VPS owners.
 
