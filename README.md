@@ -1,6 +1,6 @@
 # 🚀 VOLTRON TECH ULTIMATE
 
-**Version:** 10.4 (Falcon Style Edition)  
+**Version:** 10.8 (Falcon Style Edition)  
 **Author:** Voltron Tech  
 **Platform:** Linux (Ubuntu/Debian)
 
